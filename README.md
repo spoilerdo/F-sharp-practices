@@ -1,1 +1,1 @@
-F-sharp-practices
+F-sharp-practices to learn more about F#.
